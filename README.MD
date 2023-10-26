@@ -1,4 +1,4 @@
-# Go Lang Mastery Quest
+# Go-Lang Mastery Quest [1]
 
 ## Step One, Learn the basic
 ## Go Modules
